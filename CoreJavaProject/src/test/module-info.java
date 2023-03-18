@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Kids
+ *
+ */
+module CoreJavaProject {
+}
